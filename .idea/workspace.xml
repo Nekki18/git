@@ -37,8 +37,10 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "conflict/command-line",
     "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -61,6 +63,7 @@
       <updated>1734595316463</updated>
       <workItem from="1734595318082" duration="36000" />
       <workItem from="1734598966797" duration="287000" />
+      <workItem from="1734609163708" duration="603000" />
     </task>
     <servers />
   </component>
